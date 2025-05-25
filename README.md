@@ -1,1 +1,1 @@
-# aplicaci-n-m-vil-multiplataforma
+# aplicación móvil multiplataforma
